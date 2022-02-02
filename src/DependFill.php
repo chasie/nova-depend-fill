@@ -1,6 +1,6 @@
 <?php
 
-namespace Klepak\DependFill;
+namespace Chasie\DependFill;
 
 use Laravel\Nova\Fields\Field;
 
