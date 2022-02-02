@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-composer require klepak/nova-depend-fill
+composer require chasie/nova-depend-fill
 ```
 
 # Description
